@@ -1,56 +1,42 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# WEBPACK-SETUP-PROJECT
 
-# Project Name
-
-> Description the project.
-
+This project is all about setting up the webpack in the root structure to helps in working with the modules.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+## Technologies used: 
+-webpack, 
+-Git
+-Github
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
+
+Navigate to a folder where you want the cloned file to appear
+
+Clone this repo in your terminal or git bash using the command
+
+https://github.com/Moise-code/webpack-setup
+run npm install to install all the necessary dependencies including the linters
+
+
 
 ### Prerequisites
 
 ### Setup
+copy the url to your local [https://github.com/Moise-code/webpack-setup]
 
-### Install
+### Live Demo 
 
-### Usage
+## JAMES ASIBEY MANU
 
-### Run tests
+-GitHub:https://github.com/Moise-code
+-Twitter:(https://twitter.com/JamesAsibeyManu)
+-LinkedIn:(https://www.linkedin.com/in/jamesasibeymanu)
 
-### Deployment
+## Faranosh Amini
 
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -63,12 +49,11 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse Reviewers and support team §
 
 ## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
 
 This project is [MIT](./LICENSE) licensed.
 
